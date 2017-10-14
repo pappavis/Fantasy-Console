@@ -1,0 +1,25 @@
+import brl.blitz
+import brl.pngloader
+import brl.glmax2d
+LoadImages%()="bb_LoadImages"
+gfxset%&=mem("bb_gfxset")
+iconimage:TImage&=mem:p("bb_iconimage")
+greensquare:Timage&=mem:p("bb_greensquare")
+purplesquare1:Timage&=mem:p("bb_purplesquare1")
+purplesquare2:Timage&=mem:p("bb_purplesquare2")
+bluediamond:Timage&=mem:p("bb_bluediamond")
+pinkpinwheel:Timage&=mem:p("bb_pinkpinwheel")
+indigotriangle:Timage&=mem:p("bb_indigotriangle")
+bluecircle:Timage&=mem:p("bb_bluecircle")
+redclone:Timage&=mem:p("bb_redclone")
+orangetriangle:Timage&=mem:p("bb_orangetriangle")
+redcircle:Timage&=mem:p("bb_redcircle")
+whiteplayer:Timage&=mem:p("bb_whiteplayer")
+yellowshot:Timage&=mem:p("bb_yellowshot")
+whitestar:Timage&=mem:p("bb_whitestar")
+snaketail:TImage&=mem:p("bb_snaketail")
+snakehead:TImage&=mem:p("bb_snakehead")
+powerimage:TImage&=mem:p("bb_powerimage")
+capturedimg:TImage&=mem:p("bb_capturedimg")
+particleimg:Timage&=mem:p("bb_particleimg")
+colourpick:Timage&=mem:p("bb_colourpick")

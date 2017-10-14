@@ -1,0 +1,25 @@
+import brl.blitz
+import brl.pngloader
+import brl.glmax2d
+LoadImages%()="bb_LoadImages"
+gfxset%&=mem("bb_gfxset")
+iconimage:brl.max2d.TImage&=mem:p("bb_iconimage")
+greensquare:brl.max2d.Timage&=mem:p("bb_greensquare")
+purplesquare1:brl.max2d.Timage&=mem:p("bb_purplesquare1")
+purplesquare2:brl.max2d.Timage&=mem:p("bb_purplesquare2")
+bluediamond:brl.max2d.Timage&=mem:p("bb_bluediamond")
+pinkpinwheel:brl.max2d.Timage&=mem:p("bb_pinkpinwheel")
+indigotriangle:brl.max2d.Timage&=mem:p("bb_indigotriangle")
+bluecircle:brl.max2d.Timage&=mem:p("bb_bluecircle")
+redclone:brl.max2d.Timage&=mem:p("bb_redclone")
+orangetriangle:brl.max2d.Timage&=mem:p("bb_orangetriangle")
+redcircle:brl.max2d.Timage&=mem:p("bb_redcircle")
+whiteplayer:brl.max2d.Timage&=mem:p("bb_whiteplayer")
+yellowshot:brl.max2d.Timage&=mem:p("bb_yellowshot")
+whitestar:brl.max2d.Timage&=mem:p("bb_whitestar")
+snaketail:brl.max2d.TImage&=mem:p("bb_snaketail")
+snakehead:brl.max2d.TImage&=mem:p("bb_snakehead")
+powerimage:brl.max2d.TImage&=mem:p("bb_powerimage")
+capturedimg:brl.max2d.TImage&=mem:p("bb_capturedimg")
+particleimg:brl.max2d.Timage&=mem:p("bb_particleimg")
+colourpick:brl.max2d.Timage&=mem:p("bb_colourpick")

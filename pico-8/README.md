@@ -6,7 +6,8 @@ proberen? http://erasmus-ict.nl/fantasy/lightbikes.html<br/>
 
 Meer weten?
 ---
-contact thebapodcast@gmail.com <br/>
+Ontwikkeld met https://www.lexaloffle.com/pico-8.php <br/>
+Contact thebapodcast@gmail.com <br/>
 of https://www.linkedin.com/in/michielerasmus/ <br/>
  <br/>
  <img src="https://github.com/pappavis/Fantasy-Console/blob/master/pico-8/lightbikes.gif" width="50%" hieght="50%"><br/>

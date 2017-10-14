@@ -10,4 +10,4 @@ Ontwikkeld met https://www.lexaloffle.com/pico-8.php <br/>
 Contact thebapodcast@gmail.com <br/>
 of https://www.linkedin.com/in/michielerasmus/ <br/>
  <br/>
- <img src="https://github.com/pappavis/Fantasy-Console/blob/master/pico-8/lightbikes.gif" width="50%" hieght="50%"><br/>
+ <img src="https://github.com/pappavis/Fantasy-Console/blob/master/pico-8/Michiel%20Erasmus/lightbikes.gif" width="50%" hieght="50%"><br/>

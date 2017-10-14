@@ -15,7 +15,7 @@ Installatie
 Credits;
 ---
 **Ontwikkelaar**  Michiel Erasmus <br/>
-**Tooling** https://www.lexaloffle.com/pico-8.php <br/>
+**Tooling** <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/PICO-8_logo.png" width="6%" height="6%"> https://www.lexaloffle.com/pico-8.php <br/> 
 **Contact** thebapodcast@gmail.com  of  https://www.linkedin.com/in/michielerasmus/ <br/>
  <br/>
  <img src="https://github.com/pappavis/Fantasy-Console/blob/master/pico-8/Michiel%20Erasmus/lightbikes.gif" width="50%" hieght="50%"><br/>

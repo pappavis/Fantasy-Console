@@ -1,0 +1,64 @@
+; Quantum History (From www.klov.com)
+;
+; Vertical monitor, Color Vector, 2 player alternating. 
+; 6 MHz 68000 CPU with a 16-bit data bus.
+; Developed by General Computer Corp. 
+;
+; Aquired(along with Food Fight) by Atari through a legal settlement.
+; Released November 1982 in very limited quantities.  Atari employees have said that 
+; there were 500 or fewer games produced. 
+;
+; Quantum was the first Atari game to allow a player to try the game without 
+; inserting a coin. During the attract mode, the game allowed the player to move the 
+; comet to try to capture a particle. During this mode, the messages 
+; "TRY CAPTURING THIS ATOM" and "MOVE THE TRACKBALL" appeared.
+
+; Gameplay
+;
+; Game action takes place in a sub-atomic world. The player 
+; tries to capture deadly atomic particles without being destroyed by them. 
+;
+; To capture the particles the player uses a trackball to control a sparkling comet. 
+; The comet leaves a line-trail behind it.  The player must draw a complete circle 
+; around the deadly particle to destroy it -- without touching the particle, and 
+; before the comet's trail decays (disappears)! 
+;
+; When a player captures a particle, it explodes and the point value 
+; appears on the screen. If a player captures more than one particle at a time, 
+; double points are earned. The player advances to a new level when all of 
+; the NUCLEI have been captured, even if other particles are still on the screen. 
+; The comet is destroyed when it hits a particle or the red bonds between nuclei. 
+; The game ends when all the player's comets are destroyed. 
+;
+; Players can select their beginning level and receive bonus points if that level 
+; is finished. After a player's game ends, they can continue their game at the 
+; highest ODD-numbered level that they have finished. 
+;
+; Gameplay becomes more difficult as more and new particles appear and move faster.
+; Also the player's comet grows bigger and bigger as the level progresses, making it 
+; harder to maneuver without running into a particle. 
+;
+; The particles are:     Quantum Particles
+;
+; Particle                    Description                              Point Value
+;
+; Electron    Rotates slowly around the nucleus.                               20
+; Triphon     Moves slowly and flashes colors. Leaves Tryd in its trail.      100
+; Splitter    Travels in a random pattern. Flashes color, splits into 3,      100-400
+;                        and splits into 3 again.
+; Photon      Enters from the edge of the screen, exits from the other side.  200
+; Positron    Made of stray electrons after a nucleus is destroyed. Moves     200
+;                          off screen quickly.
+; Tryd        Left by Triphon. Slowly shrinks away and disappears.            300
+; Nucleus     Moves slowly and bounces off the edges of the playfield.        300
+;             Cuts off the end of the comet's tail when it crosses it. 
+;             At the higher levels, nuclei are joined by a bond. 
+;             The comet may pass through the bond when it is blue, 
+;             but is destroyed when the bond turns to red.
+; Pulsar      Attracts to comet. Pulses as it moves.                          400
+;
+; If the player earns the highest score, a special option allows them to sign their 
+; name using the trackball, as well as enter their initials into the high score table. 
+
+
+

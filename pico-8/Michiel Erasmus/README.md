@@ -2,7 +2,7 @@
 Dit is een game gemaakt voor Ludum Dare#39 tijdens mijn vakantie in Bali.
  <br/>
  <br/>
- Direct proberen op http://erasmus-ict.nl/fantasy/lightbikes.html<br/>
+ Direct proberen op http://erasmus-ict.nl/easylab4kids/fantasy/lightbikes.html<br/>
 
 Installatie
 ---

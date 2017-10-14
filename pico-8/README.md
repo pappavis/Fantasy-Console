@@ -3,7 +3,7 @@ LightBikes
 door Michiel Erasmus, Jul-2017 <br/>
 ontwikkeld met https://www.lexaloffle.com/pico-8.php <br/>
 
-meer weten?
+Meer weten?
 ---
 contact thebapodcast@gmail.com
 of https://www.linkedin.com/in/michielerasmus/

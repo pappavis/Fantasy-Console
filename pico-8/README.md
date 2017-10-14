@@ -8,4 +8,4 @@ Meer weten?
 contact thebapodcast@gmail.com <br/>
 of https://www.linkedin.com/in/michielerasmus/ <br/>
  <br/>
-<img src="https://www.lexaloffle.com/gfx/p8_jelpi.gif"> <br/>
+ <img src="https://github.com/pappavis/Fantasy-Console/blob/master/pico-8/lightbikes.gif" width="50%" hieght="50%"><br/>

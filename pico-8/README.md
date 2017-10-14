@@ -1,9 +1,9 @@
 LightBikes
 ---
 door Michiel Erasmus, Jul-2017 <br/>
-ontwikkeld met https://www.lexaloffle.com/pico-8.php <br/>
 proberen? http://erasmus-ict.nl/fantasy/lightbikes.html<br/>
 <br/>
+
 Meer weten?
 ---
 contact thebapodcast@gmail.com <br/>

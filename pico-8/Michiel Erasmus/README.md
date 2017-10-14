@@ -1,14 +1,14 @@
 ### LightBikes
 Dit is een game gemaakt voor Ludum Dare#39 tijdens mijn vakantie in Bali.
+ <br/>
+direct proberen op http://erasmus-ict.nl/fantasy/lightbikes.html<br/>
 
 Installatie
 ---
 1. Download dit github repo. <br/>
-2. STart Google Chrome / Internet Explorer. <br/>
+2. Start Google Chrome / Internet Explorer. <br/>
 3. Open lightbikes.html met jouw browser. <br/>
 4. Spelen! :) <br/>
- <br/>
-Of, direct proberen op http://erasmus-ict.nl/fantasy/lightbikes.html<br/>
 <br/>
 
 Credits;

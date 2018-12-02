@@ -3,6 +3,9 @@ BlitzMax is bitmap grafics 'retro' 1990's games maak in Windows|MacOs|Linux<br/>
 
 In hierdie argief is speletjies wat ek gemaak het of demos met bronkode.<br/>
 
+### Download BlitzMax
+BlitzmaxIDE <a href="http://www.blitzmax.net/wordpress/download/">Download</a>
+
 Meer weet?
 ---
 contact Michiel Erasmus thebapodcast@gmail.com<br/>
